@@ -76,7 +76,7 @@ Git, Linux
 
 ## 📫 Contact
 
-- GitHub: https://github.com/labib444  
+- Gmail: labib.abdullah.1999@gmail.com
 - LinkedIn: https://www.linkedin.com/in/labib-a-572180a3
 
 ---
